@@ -18,3 +18,15 @@
 - ![alt text](pics/zsh3.png "")
 
 
+## VIM Setting
+- path : 
+	- /usr/share/vim/vimrc
+
+```bash
+set nu
+syntax on
+set cindent
+set cursorline
+colorscheme koehler
+set nocompatible
+```
