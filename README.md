@@ -5,10 +5,16 @@
 ## ZSH Themes
 
 ### ida_bullet-train.zsh-theme
+- Modify from bullet-train.zsh
+- ![alt text](pics/zsh1.png "")
 
 ### ys.zsh-theme_ida
+- Modify from ys.zsh-theme
+- ![alt text](pics/zsh2.png "")
 
 ### IDA theme
-
+- Modify from cloud.zsh-theme 
+- add an apple
+- ![alt text](pics/zsh3.png "")
 
 
