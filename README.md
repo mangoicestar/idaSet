@@ -32,3 +32,26 @@ set cursorline
 colorscheme koehler
 set nocompatible
 ```
+
+
+## VIM Setting - 
+```bash
+set syntax=on
+
+set background=dark
+set tabstop=4 softtabstop=4 shiftwidth=4
+set lines=50 columns=135
+set scrolloff=10
+
+set ai
+set nowrap
+set number
+set ruler
+set hlsearch
+set cursorline
+
+set nu
+
+set t_Co=256
+color delek
+```
